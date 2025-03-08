@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-size: 50px;
+    
+}
+
+#para{
+    align-items: center;
+    color: blue;
+    font-size: 30px;
+}
+
+#cat{
+    display: block; margin: auto;
+}
